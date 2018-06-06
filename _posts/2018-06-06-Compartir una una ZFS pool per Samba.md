@@ -9,7 +9,11 @@ La informació que he fet servir està extreta de [hiroom2](https://www.hiroom2.
 
 * Per tal de poder compartir una zfs pool mitjançant samba el primer que necessitem és instaŀlar samba.
 **Si ja tens samba al sistema pots pasar al seguent punt**
-```bash
+
+{% highlight bash %}
+
 yum install -y samba
-```
+
+{% highlight bash %}
+
 * Configuració:
